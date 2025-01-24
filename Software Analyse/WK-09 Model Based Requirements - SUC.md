@@ -17,6 +17,7 @@ Een **System Use Case** beschrijft de interacties tussen een systeem en externe 
 ![SUC Diagram Componenten](SUCComponents5.png)  
 
 *Bron: WK09 - 01 - SWA - Req Model Based SUC - 00 IntroductionAndExercises.pdf, slide 15-16*
+[[ed9d9f97-5be8-4558-907a-38fbbd7cd6df_SUC_and_its_friends.pdf]]
 
 ---
 

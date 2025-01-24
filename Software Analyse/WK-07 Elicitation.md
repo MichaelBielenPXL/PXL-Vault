@@ -94,7 +94,7 @@ Het Kano-model werd toegepast op de tevredenheid van studenten in het hoger onde
 ![SWOT-analyse](SWOTAnalysis9.png)  
 ![SWOT-analyse](SWOTAnalysis10.png)  
 *Bron: WK07 - 01 - SWA - Elicitation - IntroductionAndExercises.pdf, slide 40-51*
-
+[[Bijlage_SWOT_analyse_elicitation_c2a490af8ce948b7a3b208cb801d9c41-240125-1429-412.pdf]]
 ---
 
 ## Conclusie
