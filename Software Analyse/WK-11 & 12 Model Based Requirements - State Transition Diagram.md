@@ -18,6 +18,7 @@ Een **State Transition Diagram** beschrijft:
 
 ![STD Componenten](STDComponents.png)  
 *Bron: WK11 - 01 - SWA - Req Model Based STT - 00 IntroductionAndExercises.pdf, slide 5*
+[[State_Transition_Diagram.pdf]]
 
 ---
 
