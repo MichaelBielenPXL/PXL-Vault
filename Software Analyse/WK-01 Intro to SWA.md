@@ -44,6 +44,7 @@ Het "Duivelsvierkant" is een hulpmiddel dat de balans bewaart tussen vier kritie
 Stakeholders zijn personen of groepen die invloed hebben op of worden beïnvloed door het project. Ze worden onderverdeeld in:
 - **Primaire stakeholders**: Direct betrokken, zoals het projectteam en klanten.
 - **Secundaire stakeholders**: Indirect betrokken, zoals leveranciers en externe gebruikers.
+
 [[2.3 Stakeholderanalyse_4b822497f110441db14a563358b831e1-240125-1424-406.pdf]]
 
 Een **RACI-matrix** verduidelijkt rollen en verantwoordelijkheden binnen het team.
