@@ -244,6 +244,7 @@ Lees meer in [[WK-09 Model Based Requirements - SUC]].
 ### SWOT-analyse
 
 Een SWOT-analyse wordt gebruikt om sterke punten, zwakke punten, kansen en bedreigingen te evalueren. Het helpt bij het nemen van strategische beslissingen.
+[[Bijlage_SWOT_analyse_elicitation_c2a490af8ce948b7a3b208cb801d9c41-240125-1429-412.pdf]]
 
 ![SWOT Voorbeeld](SWOTAnalysis1.png)
 ![SWOT Voorbeeld](SWOTAnalysis2.png)
