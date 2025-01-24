@@ -211,7 +211,7 @@ Lees meer in [[WK-08 Requirements in Natural Language]].
 
 ---
 
-## 8. Cases en Praktijkvoorbeelden
+## 8. Cases
 
 ### 8.1 Stad Kortrijk-app
 
