@@ -11,6 +11,7 @@ Een domeinmodel is een visuele representatie van concepten en hun relaties binne
 - Vastleggen van terminologie.
 - Voorbereiden van object-georiënteerde analyse en ontwerp.
 
+[[StudyBuddy_DomainModel.drawio.pdf]]
 ![Voorbeeld Domeinmodel](DomainModelExample.png)  
 *Bron: WK05 - 01 - SWA - System and System Context - DomainModel - 00 IntroductionAndExercises.pdf, slide 6*
 
