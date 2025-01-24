@@ -13,7 +13,7 @@ Requirements engineering bestaat uit twee hoofdonderdelen:
 2. **Requirements Management**:
    - Tracing, Managing en Controlling (volgen, beheren en controleren van vereisten).
 
-![Framework voor Requirements Engineering](Software%20Analyse/images/RequirementsEngineeringFramework.png)  
+![Framework voor Requirements Engineering](RequirementsEngineeringFramework.png)  
 *Bron: WK03 - 01 - SWA - System and System Context - Introduction.pdf, slide 5*
 
 ---
@@ -25,7 +25,7 @@ De systeemcontext definieert de interacties tussen een systeem en zijn omgeving.
 - **Systeemgrenzen**: Wat valt binnen het systeem, en wat wordt als extern beschouwd.
 - **Contextdiagrammen**: Deze diagrammen visualiseren de datastromen tussen het systeem en de externe entiteiten.
 
-![Systeemcontext en grenzen](Software%20Analyse/images/SystemContextBoundaries.png)  
+![Systeemcontext en grenzen](SystemContextBoundaries.png)  
 *Bron: WK03 - 01 - SWA - System and System Context - Introduction.pdf, slide 22*
 
 ---
@@ -38,7 +38,7 @@ Een contextdiagram (ook wel een DFD niveau 0 genoemd) geeft een overzicht van de
 2. **Datastromen**: De informatie die in en uit het systeem stroomt.
 3. **System boundary**: De grens tussen het systeem en de omgeving.
 
-![Contextdiagram voorbeeld](Software%20Analyse/images/ContextDiagramExample.png)  
+![Contextdiagram voorbeeld](ContextDiagramExample.png)  
 *Bron: WK03 - 02 - SWA - System and System Context - ContextDiagram - 00 IntroductionAndExercises.pdf, slide 6*
 
 ### Regels voor contextdiagrammen:
@@ -57,7 +57,7 @@ De IEEE 830 standaard helpt bij het documenteren van vereisten. Het biedt een ge
 3. **Systeemfuncties**: Gedetailleerde beschrijvingen van functionaliteiten.
 4. **Kwaliteitseisen**: Prestaties, veiligheid en beveiliging.
 
-![IEEE 830 Template](Software%20Analyse/images/IEEE830Template.png)  
+![IEEE 830 Template](IEEE830Template.png)  
 *Bron: WK03 - 01 - SWA - System and System Context - Introduction.pdf, slide 15*
 
 ---
@@ -73,7 +73,7 @@ Het Cafetaria Ordering System dient als voorbeeld voor het gebruik van de SRS-st
   2. Menu's beheren.
   3. Leveringen plannen.
 
-![Cafetaria Ordering System - Contextdiagram](Software%20Analyse/images/COSContextDiagram.png)  
+![Cafetaria Ordering System - Contextdiagram](COSContextDiagram.png)  
 *Bron: WK03 - 01b - SWA - System and System Context - SRS - Cafetaria Ordering System.pdf, pagina 2*
 
 ---
@@ -81,7 +81,7 @@ Het Cafetaria Ordering System dient als voorbeeld voor het gebruik van de SRS-st
 ## 6. Use Case: Precision Tools
 Als oefening in contextdiagrammen wordt een voorbeeld gegeven van een gereedschapsbedrijf. Het systeem verwerkt bestellingen, genereert verzendorders, en factureert klanten.
 
-![Precision Tools Contextdiagram](Software%20Analyse/images/PrecisionToolsDiagram.png)  
+![Precision Tools Contextdiagram](PrecisionToolsDiagram.png)  
 *Bron: WK03 - 02 - SWA - System and System Context - ContextDiagram - 00 IntroductionAndExercises.pdf, slide 15*
 
 ---

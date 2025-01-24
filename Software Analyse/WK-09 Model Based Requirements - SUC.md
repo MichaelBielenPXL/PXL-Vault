@@ -10,11 +10,11 @@ Een **System Use Case** beschrijft de interacties tussen een systeem en externe 
 1. **SUC-diagram**: Visualiseert actoren, het systeem en hun interacties.
 2. **SUC-description**: Beschrijft de stromen (flows) binnen een scenario in natuurlijke taal.
 
-![SUC Diagram Componenten](Software%20Analyse/images/SUCComponents1.png)  
-![SUC Diagram Componenten](Software%20Analyse/images/SUCComponents2.png)  
-![SUC Diagram Componenten](Software%20Analyse/images/SUCComponents3.png)  
-![SUC Diagram Componenten](Software%20Analyse/images/SUCComponents4.png)  
-![SUC Diagram Componenten](Software%20Analyse/images/SUCComponents5.png)  
+![SUC Diagram Componenten](SUCComponents1.png)  
+![SUC Diagram Componenten](SUCComponents2.png)  
+![SUC Diagram Componenten](SUCComponents3.png)  
+![SUC Diagram Componenten](SUCComponents4.png)  
+![SUC Diagram Componenten](SUCComponents5.png)  
 
 *Bron: WK09 - 01 - SWA - Req Model Based SUC - 00 IntroductionAndExercises.pdf, slide 15-16*
 
@@ -56,7 +56,7 @@ Een casus over een slimme winkelervaring voor klanten van SmartMart. De belangri
 - **Bestellen**: Afronden van de bestelling, inclusief betaling.
 - **Levering**: Automatisering door robots en bezorgpartners.
 
-![SmartMart SUC Diagram](Software%20Analyse/images/SmartMartSUC.png)  
+![SmartMart SUC Diagram](SmartMartSUC.png)  
 *Bron: SUC Smart Mart.docx, pagina 1-2*
 
 ---
@@ -74,7 +74,7 @@ Een geldautomaat heeft de volgende SUC:
 - **Exception Flows**:
   - Klant voert een onjuiste pincode in.
 
-![ATM SUC Diagram](Software%20Analyse/images/ATMSUC.png)  
+![ATM SUC Diagram](ATMSUC.png)  
 *Bron: WK09 - 01 - SWA - Req Model Based SUC - 03 Example SUC diagram & description ATM-v2.docx, pagina 1*
 
 ---
@@ -89,7 +89,7 @@ Een SUC-description bevat:
 - **Exception Flows**: Fouten of mislukte stappen.
 - **Outcome**: Het eindresultaat na de uitvoering.
 
-![SUC Template](Software%20Analyse/images/SUCTemplate.png)  
+![SUC Template](SUCTemplate.png)  
 *Bron: WK09 - 01 - SWA - Req Model Based SUC - 02 Template SUC Description Blanc.docx, pagina 2*
 
 ---

@@ -11,7 +11,7 @@ Een domeinmodel is een visuele representatie van concepten en hun relaties binne
 - Vastleggen van terminologie.
 - Voorbereiden van object-georiënteerde analyse en ontwerp.
 
-![Voorbeeld Domeinmodel](Software%20Analyse/images/DomainModelExample.png)  
+![Voorbeeld Domeinmodel](DomainModelExample.png)  
 *Bron: WK05 - 01 - SWA - System and System Context - DomainModel - 00 IntroductionAndExercises.pdf, slide 6*
 
 ---
@@ -25,7 +25,7 @@ Domeinmodellering volgt deze stappen:
 5. **Attributen toewijzen**: Ken eigenschappen toe aan de concepten.
 6. **Multipliciteiten controleren**: Bepaal hoeveel instanties van een klasse in een relatie betrokken zijn.
 
-![Proces van Domeinmodellering](Software%20Analyse/images/DomainModelProcess.png)  
+![Proces van Domeinmodellering](DomainModelProcess.png)  
 *Bron: WK05 - 01 - SWA - System and System Context - DomainModel - 00 IntroductionAndExercises.pdf, slide 14*
 
 ---
@@ -42,7 +42,7 @@ Een online platform waar klanten aandelen kunnen kopen en verkopen. Belangrijke 
 - **Beurzen**: Verstrekken prijsinformatie.
 - **Aandelen**: Worden verhandeld in lotgroottes.
 
-![Online Stock Trading Domeinmodel](Software%20Analyse/images/OnlineStockDomainModel.png)  
+![Online Stock Trading Domeinmodel](OnlineStockDomainModel.png)  
 *Bron: WK05 - 04 - SWA - System and System Context - DomainModel - 01 CaseOnlineStock.docx, pagina 1*
 
 ---
@@ -59,7 +59,7 @@ Een tankstation waar klanten brandstof tanken. Het proces omvat:
 - **Brandstofpompen**: Apparaten voor brandstoflevering.
 - **Debietmeters**: Meten de getankte hoeveelheid.
 
-![Tankstation Domeinmodel](Software%20Analyse/images/TankStationDomainModel.png)  
+![Tankstation Domeinmodel](TankStationDomainModel.png)  
 *Bron: WK05 - 02 - SWA - System and System Context - DomainModel - 01 CaseTankStationStart.docx, pagina 1*
 
 ---
@@ -76,7 +76,7 @@ Een kassasysteem waarmee klanten goederen en diensten kunnen afrekenen. Het proc
 - **Systemen**: Verwerken betalingen en loggen transacties.
 - **Artikelen**: Producten die verkocht worden.
 
-![POS Domeinmodel](Software%20Analyse/images/POSDomainModel.png)  
+![POS Domeinmodel](POSDomainModel.png)  
 *Bron: WK05 - 05 - SWA - System and System Context - DomainModel - 01 CasePointOfSale.docx, pagina 1*
 
 ---
@@ -88,7 +88,7 @@ Een woordenlijst is essentieel voor consistente communicatie:
 - **Artikelen**: Producten die worden verkocht.
 - **Aandelen**: Financiële activa die verhandeld worden.
 
-![Glossary Voorbeeld](Software%20Analyse/images/GlossaryExample.png)  
+![Glossary Voorbeeld](GlossaryExample.png)  
 *Bron: WK05 - 01 - SWA - System and System Context - DomainModel - 00 IntroductionAndExercises.pdf, slide 26*
 
 ---

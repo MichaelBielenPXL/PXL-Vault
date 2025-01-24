@@ -22,7 +22,7 @@ Een Business Use Case Diagram visualiseert de interacties tussen actoren en het 
 - **Actoren**: Personen, systemen of organisaties die interacties uitvoeren.
 - **Business Use Cases**: De processen of activiteiten die waarde creëren.
 
-![Business Use Case Diagram](Software%20Analyse/images/BUCDiagram.png)  
+![Business Use Case Diagram](BUCDiagram.png)  
 *Bron: WK04 - 01 - SWA - System and System Context - BUC - 00 IntroductionAndExercises.pdf, slide 9*
 
 ---
@@ -36,7 +36,7 @@ De beschrijvingen van BUCs worden gestructureerd vastgelegd in een template. Een
 - **Uitzonderingsstroom**: Beschrijft fouten of problemen en hoe deze worden afgehandeld.
 - **Uitkomst**: Wat is het eindresultaat?
 
-![BUC Template](Software%20Analyse/images/BUCTemplate.png)  
+![BUC Template](BUCTemplate.png)  
 *Bron: WK04 - 01 - SWA - System and System Context - BUC - 01 Description Template v2 - explained.docx, pagina 1*
 
 ---
@@ -55,7 +55,7 @@ Een praktijkvoorbeeld van een Business Use Case is het individuele incheckproces
 - **Uitzonderingsstroom**:
   - Als de passagier geen identiteitsbewijs heeft, moet de vlucht worden omgeboekt.
 
-![Luchthavenproces - Inchecken](Software%20Analyse/images/AirportCheckInProcess.png)  
+![Luchthavenproces - Inchecken](AirportCheckInProcess.png)  
 *Bron: WK04 - 01 - SWA - System and System Context - BUC - 04 Description Example - Airport-simplev2.docx, pagina 1*
 
 ---
@@ -78,7 +78,7 @@ Een voorbeeld van een oefening is het modelleren van een bibliotheeksysteem:
 - **Preconditie**: Leden moeten geregistreerd zijn.
 - **Uitkomst**: Een soepel proces voor lenen en retourneren.
 
-![Bibliotheek Use Case](Software%20Analyse/images/LibraryUseCase.png)  
+![Bibliotheek Use Case](LibraryUseCase.png)  
 *Bron: WK04 - 01 - SWA - System and System Context - BUC - 00 IntroductionAndExercises.pdf, slide 28*
 
 ---

@@ -16,7 +16,7 @@ Een **State Transition Diagram** beschrijft:
 - Geschikt voor simulatie en testen.
 - Visualiseert complexe toestanden en overgangen.
 
-![STD Componenten](Software%20Analyse/images/STDComponents.png)  
+![STD Componenten](STDComponents.png)  
 *Bron: WK11 - 01 - SWA - Req Model Based STT - 00 IntroductionAndExercises.pdf, slide 5*
 
 ---
@@ -34,7 +34,7 @@ Een **State Transition Diagram** beschrijft:
 4. Definieer gebeurtenissen en guard conditions.
 5. Documenteer acties.
 
-![STD Proces](Software%20Analyse/images/STDProcess.png)  
+![STD Proces](STDProcess.png)  
 *Bron: WK11 - 01 - SWA - Req Model Based STT - 00 IntroductionAndExercises.pdf, slide 9*
 
 ---
@@ -50,7 +50,7 @@ Een voorbeeld van een STD voor een digitaal huisdier:
   - Sad → Happy (na beloning)
   - Sad → Heart-broken (bij herhaalde straf)
 
-![STD Digital Pet](Software%20Analyse/images/STDDigitalPet.png)  
+![STD Digital Pet](STDDigitalPet.png)  
 *Bron: WK11 - 01 - SWA - Req Model Based STT - 00 IntroductionAndExercises.pdf, slide 12*
 
 ---
@@ -67,7 +67,7 @@ Een STD beschrijft het gedrag van een brandstofpomp:
   - Validating Card → Fueling (bij goedkeuring)
   - Fueling → Payment Processing (na afronden van tanken)
 
-![STD Fuel Pump](Software%20Analyse/images/STDFuelPump.png)  
+![STD Fuel Pump](STDFuelPump.png)  
 *Bron: WK11 - 01 - SWA - Req Model Based STT - 00 IntroductionAndExercises.pdf, slide 13*
 
 ---
@@ -84,7 +84,7 @@ Een VR-bril heeft de volgende toestanden:
   - Booting → Main Menu (na initialisatie)
   - Main Menu → Running Application (na selectie van een applicatie)
 
-![STD VR Bril](Software%20Analyse/images/STDVRBril.png)  
+![STD VR Bril](STDVRBril.png)  
 *Bron: WK11 - 01 - SWA - Req Model Based STT - 00 IntroductionAndExercises.pdf, slide 14*
 
 ---
@@ -99,7 +99,7 @@ Een VR-bril heeft de volgende toestanden:
 - Kan complex worden bij grote systemen.
 - Moeilijk te begrijpen voor niet-technische stakeholders.
 
-![STD Voordelen en Nadelen](Software%20Analyse/images/STDProsCons.png)  
+![STD Voordelen en Nadelen](STDProsCons.png)  
 *Bron: WK11 - 01 - SWA - Req Model Based STT - 00 IntroductionAndExercises.pdf, slide 10*
 
 ---

@@ -35,7 +35,7 @@ Het "Duivelsvierkant" is een hulpmiddel dat de balans bewaart tussen vier kritie
 - **Scope**: Het beheersen van de omvang van het project.
 - **Kwaliteit**: Het leveren van een robuust product.
 
-![Duivelsvierkant](Software%20Analyse/images/DuivelsVierkant.png)  
+![Duivelsvierkant](DuivelsVierkant.png)  
 *Bron: WK01 - 02 - SWA - Intro - Duivelsvierkant - The project leader's game.pdf, pagina 2*
 
 ---
@@ -47,7 +47,7 @@ Stakeholders zijn personen of groepen die invloed hebben op of worden beïnvloed
 
 Een **RACI-matrix** verduidelijkt rollen en verantwoordelijkheden binnen het team.
 
-![Organogram](Software%20Analyse/images/Organogram.png)  
+![Organogram](Organogram.png)  
 *Bron: WK01 - 06 - SWA - Intro - Voorbeeld PvA met stakeholderanalyse.pdf, pagina 19*
 
 ---
@@ -75,7 +75,7 @@ De afbeelding hieronder toont een overzicht van de verschillende niveaus van ver
 - **System Requirements Specification**: "The product shall..."
 - **Detailed Requirements Specification**: Gedetailleerde beschrijvingen van eisen.
 
-![Structuur User Stories en Features](Software%20Analyse/images/UserStoryStructure.png)  
+![Structuur User Stories en Features](USerStoryStructure.png)  
 *Bron: WK01 - 03 - SWA - Intro - Requirements, what, levels & types.pdf, pagina 17*
 
 ---
@@ -98,7 +98,7 @@ Het project maakt gebruik van moderne tools en technologieën:
 
 De infrastructuur omvat een **DevOps-pipeline** die CI/CD-principes toepast.
 
-![DevOps-pipeline](Software%20Analyse/images/DevOpsPipelineEnInfrastructuur.png)  
+![DevOps-pipeline](DevOpsPipelineEnInfrastructuur.png)  
 *Bron: WK01 - 06 - SWA - Intro - Voorbeeld PvA met stakeholderanalyse.pdf, pagina 24*
 
 ---

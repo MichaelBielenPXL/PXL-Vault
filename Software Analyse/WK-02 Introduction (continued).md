@@ -31,7 +31,7 @@ ISO 25010 biedt een raamwerk voor softwarekwaliteitsbeheer, gericht op aspecten 
 - **Prestatie-efficiëntie**: Snelheid en middelengebruik.
 - **Betrouwbaarheid**: Beschikbaarheid en foutbestendigheid.
 
-![ISO 25010](Software%20Analyse/images/ISO25010.png)  
+![ISO 25010](ISO25010.png)  
 *Bron: WK02 - 01 - SWA - Intro - Best practices - international standards - ISO - JIRA.pdf, pagina 4-5*
 
 SMART-vereisten worden ook benadrukt:
@@ -52,7 +52,7 @@ In JIRA worden vereisten beheerd via:
 - **Functioneel**: *"Als docent wil ik de voortgang van mijn collega’s begrijpen, zodat ik beter kan rapporteren."*
 - **Niet-Functioneel**: *"Als gebruiker wil ik dat Blackboard 99.999% beschikbaar is, zodat ik geen frustraties ervaar."*
 
-![User Story Template](Software%20Analyse/images/UserStoryTemplate.png)  
+![User Story Template](UserStoryTemplate.png)  
 *Bron: WK02 - 01 - SWA - Intro - Best practices - international standards - ISO - JIRA.pdf, pagina 12-14*
 
 ---
@@ -77,7 +77,7 @@ Van voorspellende modellen zoals de waterval en het V-model tot adaptieve method
 - **Scrum**: Iteratief met korte sprints.
 - **Lean**: Gericht op continue verbetering.
 
-![Methoden Overzicht](Software%20Analyse/images/MethodenOverzicht.png)  
+![Methoden Overzicht](MethodenOverzicht.png)  
 *Bron: WK02 - 02 - SWA - Intro - Requirements development & management.pdf, pagina 17*
 
 ---
@@ -85,7 +85,7 @@ Van voorspellende modellen zoals de waterval en het V-model tot adaptieve method
 ## 6. Communicatie in Requirements Engineering
 Effectieve communicatie is cruciaal. Volgens het 20-80-principe wordt slechts 20% van een boodschap bepaald door wat gezegd wordt, terwijl 80% afhankelijk is van toon en lichaamstaal. Goede communicatie voorkomt misverstanden en verbetert samenwerking.
 
-![Communicatiemodel](Software%20Analyse/images/Communicatiemodel.png)  
+![Communicatiemodel](Communicatiemodel.png)  
 *Bron: WK02 - 02 - SWA - Intro - Requirements development & management.pdf, pagina 10*
 
 ---

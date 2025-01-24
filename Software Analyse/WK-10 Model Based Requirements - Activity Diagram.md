@@ -50,7 +50,7 @@ Een **Activity Diagram** is een modelleermethode die activiteiten binnen een pro
    - Gebruik decision nodes voor conditionele paden.
    - Gebruik fork en join voor parallelle processen.
 
-![Activity Diagram Voorbeeld](Software%20Analyse/images/ActivityDiagramExample.png)  
+![Activity Diagram Voorbeeld](ActivityDiagramExample.png)  
 *Bron: WK10 - 01 - SWA - Req Model Based Activity - 00 IntroductionAndExercises.pdf, slide 35*
 
 ---
@@ -66,7 +66,7 @@ Een voorbeeld van een activity diagram voor een aankoopdienst:
   3. Bij offertes worden leveranciers geselecteerd en offertes vergeleken.
   4. Bestelbon wordt opgemaakt en verstuurd.
 
-![Aankooporders Diagram](Software%20Analyse/images/ActivityDiagramAankoop.png)  
+![Aankooporders Diagram](ActivityDiagramAankoop.png)  
 *Bron: WK10 - 01 - SWA - Req Model Based Activity - 00 IntroductionAndExercises.pdf, slide 37*
 
 ---
@@ -83,10 +83,10 @@ Het activity diagram voor een informatiesysteem van **De Lijn**:
   - Betaling registreren.
   - Abonnement printen.
 
-![De Lijn Diagram](Software%20Analyse/images/ActivityDiagramDeLijn1.png)  
-![De Lijn Diagram](Software%20Analyse/images/ActivityDiagramDeLijn2.png)  
-![De Lijn Diagram](Software%20Analyse/images/ActivityDiagramDeLijn3.png)  
-![De Lijn Diagram](Software%20Analyse/images/ActivityDiagramDeLijn4.png)  
+![De Lijn Diagram](ActivityDiagramDeLijn1.png)  
+![De Lijn Diagram](ActivityDiagramDeLijn2.png)  
+![De Lijn Diagram](ActivityDiagramDeLijn3.png)  
+![De Lijn Diagram](ActivityDiagramDeLijn4.png)  
 *Bron: WK10 - 01 - SWA - Req Model Based Activity - 00 IntroductionAndExercises.pdf, slide 38-41*
 
 ---

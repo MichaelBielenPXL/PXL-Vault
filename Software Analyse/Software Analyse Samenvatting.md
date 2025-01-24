@@ -23,7 +23,7 @@ Requirements Development omvat vier fasen:
 
 Hierbij worden wijzigingen in vereisten beheerd en gevolgd gedurende de levenscyclus van het project. Belangrijke activiteiten zijn versiebeheer en impactanalyse.
 
-![Requirements Engineering Framework](Software%20Analyse/images/RequirementsEngineeringFramework.png)
+![Requirements Engineering Framework](RequirementsEngineeringFramework.png)
 
 ### 1.3 Types vereisten
 
@@ -44,7 +44,7 @@ ISO 25010 definieert acht softwarekwaliteitskenmerken:
 - Compatibility
 - Portability
 
-![ISO 25010 Framework](Software%20Analyse/images/ISO25010.png)
+![ISO 25010 Framework](ISO25010.png)
 
 Lees meer in [[WK-01 Intro to SWA]].
 
@@ -63,7 +63,7 @@ Stakeholderanalyse helpt bij het identificeren van belanghebbenden en hun behoef
 
 Het communicatiemodel laat zien hoe informatie tussen stakeholders wordt gedeeld. Het model bestaat uit een zender, ontvanger, kanaal en boodschap.
 
-![Communicatiemodel](Software%20Analyse/images/Communicatiemodel.png)
+![Communicatiemodel](Communicatiemodel.png)
 
 Lees meer in [[WK-02 Introduction (continued)]].
 
@@ -82,7 +82,7 @@ Contextdiagrammen definiëren de grenzen van een systeem en visualiseren de data
 - Externe entiteiten: Klanten, leveranciers.
 - Datastromen: Bestellingen, betalingen.
 
-![Contextdiagram Voorbeeld](Software%20Analyse/images/ContextDiagramExample.png)
+![Contextdiagram Voorbeeld](ContextDiagramExample.png)
 
 Lees meer in [[WK-03 System and System Context - Introduction & Context diagram]].
 
@@ -94,7 +94,7 @@ BUCs beschrijven bedrijfsprocessen op een hoog niveau. Een BUC bestaat uit:
 - **Normale stroom**: Het standaardproces.
 - **Alternatieve en uitzonderingsstromen**: Variaties en foutafhandeling.
 
-![BUC Diagram](Software%20Analyse/images/BUCDiagram.png)
+![BUC Diagram](BUCDiagram.png)
 
 Lees meer in [[WK-04 System and System Context - BUC diagram & descriptions]].
 
@@ -102,7 +102,7 @@ Lees meer in [[WK-04 System and System Context - BUC diagram & descriptions]].
 
 Domeinmodellen beschrijven de concepten, attributen en relaties binnen een systeem. Ze zijn cruciaal voor het begrijpen van de probleemruimte en de objectgeoriënteerde ontwikkeling.
 
-![Domeinmodel Voorbeeld](Software%20Analyse/images/DomainModelExample.png)
+![Domeinmodel Voorbeeld](DomainModelExample.png)
 
 Lees meer in [[WK-05 & 06 System and System Context - Domain mode]].
 
@@ -121,11 +121,11 @@ System Use Cases (SUCs) beschrijven interacties tussen actoren en het systeem. Z
     - **Alternative Flows**: Variaties op het proces.
     - **Exception Flows**: Fouten en uitzonderingen.
 
-![SUC Diagram](Software%20Analyse/images/SUCComponents1.png)
-![SUC Diagram](Software%20Analyse/images/SUCComponents2.png)
-![SUC Diagram](Software%20Analyse/images/SUCComponents3.png)
-![SUC Diagram](Software%20Analyse/images/SUCComponents4.png)
-![SUC Diagram](Software%20Analyse/images/SUCComponents5.png)
+![SUC Diagram](SUCComponents1.png)
+![SUC Diagram](SUCComponents2.png)
+![SUC Diagram](SUCComponents3.png)
+![SUC Diagram](SUCComponents4.png)
+![SUC Diagram](SUCComponents5.png)
 
 
 Lees meer in [[WK-09 Model Based Requirements - SUC]].
@@ -143,14 +143,14 @@ Activiteitendiagrammen (UML) worden gebruikt om processen te modelleren. Ze visu
 - **Decision Nodes**: Conditionele splitsingen.
 - **Swim Lanes**: Verdeling van verantwoordelijkheden.
 
-![Activiteitendiagram Voorbeeld](Software%20Analyse/images/ActivityDiagramExample.png)
+![Activiteitendiagram Voorbeeld](ActivityDiagramExample.png)
 
 **Voorbeeld Case:** Aankooporders:
 
 1. Orders onder €1500 worden direct verwerkt.
 2. Orders boven €1500 vereisen offertes.
 
-![Aankooporders Diagram](Software%20Analyse/images/ActivityDiagramAankoop.png)
+![Aankooporders Diagram](ActivityDiagramAankoop.png)
 
 Lees meer in [[WK-10 Model Based Requirements - Activity Diagram]].
 
@@ -172,12 +172,12 @@ STDs modelleren de toestanden en overgangen van een systeem.
     - Toestanden: Happy, Sad, Heartbroken.
     - Overgangen: Happy → Sad (na straf).
 
-![STD Digital Pet](Software%20Analyse/images/STDDigitalPet.png)
+![STD Digital Pet](STDDigitalPet.png)
 
 2. Brandstofpomp:
     - Toestanden: Idle, Fueling, Payment Processing.
 
-![STD Fuel Pump](/Software%20Analyse/images/STDFuelPump.png)
+![STD Fuel Pump](STDFuelPump.png)
 
 Lees meer in [[WK-11 & 12 Model Based Requirements - State Transition Diagram]].
 
@@ -194,7 +194,7 @@ De IEEE 830-standaard biedt een sjabloon voor het structureren van Software Requ
     2. Algemene beschrijving: Overzicht van systeem en beperkingen.
     3. Specifieke vereisten: Gedetailleerde functionaliteiten.
 
-![IEEE 830 Template](Software%20Analyse/images/IEEE830Template.png)
+![IEEE 830 Template](IEEE830Template.png)
 
 Lees meer in [[WK-08 Requirements in Natural Language]].
 
@@ -202,7 +202,7 @@ Lees meer in [[WK-08 Requirements in Natural Language]].
 
 Volère biedt een gestructureerde aanpak voor het vastleggen van vereisten, inclusief fit criteria om de volledigheid te controleren.
 
-![Volère Template](Software%20Analyse/images/VolereTemplate.png)
+![Volère Template](VolereTemplate.png)
 
 Lees meer in [[WK-08 Requirements in Natural Language]].
 
@@ -218,7 +218,7 @@ Functionaliteiten:
 2. Evenementenkalender: Registratie en weergave.
 3. Documentendownloads: Attesten opvragen.
 
-![Kortrijk App Functionaliteiten](Software%20Analyse/images/KortrijkAppFeatures.png)
+![Kortrijk App Functionaliteiten](KortrijkAppFeatures.png)
 
 Lees meer in [[WK-08 Requirements in Natural Language]].
 
@@ -230,7 +230,7 @@ Een slimme winkelervaring met processen zoals:
 - Producten selecteren.
 - Bestellen en bezorgen.
 
-![SmartMart SUC Diagram](Software%20Analyse/images/SmartMartSUC.png)
+![SmartMart SUC Diagram](SmartMartSUC.png)
 
 Lees meer in [[WK-09 Model Based Requirements - SUC]].
 
@@ -242,16 +242,16 @@ Lees meer in [[WK-09 Model Based Requirements - SUC]].
 
 Een SWOT-analyse wordt gebruikt om sterke punten, zwakke punten, kansen en bedreigingen te evalueren. Het helpt bij het nemen van strategische beslissingen.
 
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis1.png)
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis2.png)
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis3.png)
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis4.png)
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis5.png)
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis6.png)
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis7.png)
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis8.png)
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis9.png)
-![SWOT Voorbeeld](Software%20Analyse/images/SWOTAnalysis10.png)
+![SWOT Voorbeeld](SWOTAnalysis1.png)
+![SWOT Voorbeeld](SWOTAnalysis2.png)
+![SWOT Voorbeeld](SWOTAnalysis3.png)
+![SWOT Voorbeeld](SWOTAnalysis4.png)
+![SWOT Voorbeeld](SWOTAnalysis5.png)
+![SWOT Voorbeeld](SWOTAnalysis6.png)
+![SWOT Voorbeeld](SWOTAnalysis7.png)
+![SWOT Voorbeeld](SWOTAnalysis8.png)
+![SWOT Voorbeeld](SWOTAnalysis9.png)
+![SWOT Voorbeeld](SWOTAnalysis10.png)
 
 Lees meer in [[WK-07 Elicitation]].
 

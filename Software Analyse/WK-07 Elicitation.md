@@ -14,9 +14,9 @@ Week 07 richt zich op het ophalen van vereisten (**Requirements Elicitation**) e
 3. **Gedragsproblemen**: Indifferentie of angst voor verandering bij stakeholders.
 4. **Technische problemen**: Complexiteit van domeinen en vereisten.
 
-![Uitdagingen bij Elicitation](Software%20Analyse/images/ElicitationChallenges1.png) 
-![Uitdagingen bij Elicitation](Software%20Analyse/images/ElicitationChallenges2.png)  
-![Uitdagingen bij Elicitation](Software%20Analyse/images/ElicitationChallenges3.png)  
+![Uitdagingen bij Elicitation](ElicitationChallenges1.png) 
+![Uitdagingen bij Elicitation](ElicitationChallenges2.png)  
+![Uitdagingen bij Elicitation](ElicitationChallenges3.png)  
 *Bron: WK07 - 01 - SWA - Elicitation - IntroductionAndExercises.pdf, slide 10-12*
 
 ---
@@ -29,9 +29,9 @@ Het Kano-model, ontwikkeld door Noriaki Kano, classificeert klantbehoeften in vi
 4. **Indifferente vereisten**: Hebben geen invloed op tevredenheid.
 5. **Omgekeerde vereisten**: Elementen die sommige klanten juist ontevreden maken.
 
-![Kano Model](Software%20Analyse/images/KanoModel1.png)  
-![Kano Model](Software%20Analyse/images/KanoModel2.png)  
-![Kano Model](Software%20Analyse/images/KanoModel3.png)  
+![Kano Model](KanoModel1.png)  
+![Kano Model](KanoModel2.png)  
+![Kano Model](KanoModel3.png)  
 *Bron: WK07 - 03 - SWA - Elicitation - KanoModel_uitlegNL.pdf, pagina 1-3*
 
 ### Voorbeeld:
@@ -50,9 +50,9 @@ Om vereisten te eliciteren, kunnen verschillende technieken worden gebruikt, afh
 4. **Documentanalyse**: Huidige en eerdere documentatie bestuderen.
 5. **Prototyping**: Modellen creëren om feedback te verzamelen.
 
-![Elicitation Technieken](Software%20Analyse/images/ElicitationTechniques1.png)  
-![Elicitation Technieken](Software%20Analyse/images/ElicitationTechniques2.png)
-![Elicitation Technieken](Software%20Analyse/images/ElicitationTechniques3.png)
+![Elicitation Technieken](ElicitationTechniques1.png)  
+![Elicitation Technieken](ElicitationTechniques2.png)
+![Elicitation Technieken](ElicitationTechniques3.png)
 *Bron: WK07 - 01 - SWA - Elicitation - IntroductionAndExercises.pdf, slide 37-39*
 
 ---
@@ -62,7 +62,7 @@ Het Kano-model werd toegepast op de tevredenheid van studenten in het hoger onde
 - **Academische begeleiding**: Meestal gezien als **must-be**.
 - **Campusleven**: Vaak als **delighters** geïdentificeerd.
 
-![Kano Model Toegepast](Software%20Analyse/images/KanoHigherEducation.png)  
+![Kano Model Toegepast](KanoHigherEducation.png)  
 *Bron: WK07 - 04 - SWA - Elicitation - KanoExample - HigherEducation.pdf, pagina 5-6*
 
 ### Resultaten:

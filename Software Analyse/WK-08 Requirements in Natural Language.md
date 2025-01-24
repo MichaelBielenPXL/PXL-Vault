@@ -13,8 +13,8 @@ Natuurlijke taal wordt gebruikt om vereisten op een manier te beschrijven die be
 2. **Nominalisatie**: Complexe processen worden soms te simplistisch beschreven.
 3. **Passieve formuleringen**: Zorgt voor minder duidelijkheid over verantwoordelijkheden.
 
-![Uitdagingen bij natuurlijke taal](Software%20Analyse/images/NaturalLanguageChallenges1.png) 
-![Uitdagingen bij natuurlijke taal](Software%20Analyse/images/NaturalLanguageChallenges2.png)
+![Uitdagingen bij natuurlijke taal](NaturalLanguageChallenges1.png) 
+![Uitdagingen bij natuurlijke taal](NaturalLanguageChallenges2.png)
 *Bron: WK08 - 01 - SWA - Reqs in NL - 00 IntroductionAndExercises.pdf, slide 7*
 
 ---
@@ -27,7 +27,7 @@ Het Volère-framework biedt een sjabloon voor het structureren van vereisten. Di
 2. **System Requirement**: Gedetailleerde technische vereiste.
 3. **Fit Criteria**: Meetbare criteria om de volledigheid van de vereiste te controleren.
 
-![Volère Kaartsjabloon](Software%20Analyse/images/VolereTemplate.png)  
+![Volère Kaartsjabloon](VolereTemplate.png)  
 *Bron: WK08 - 02 - SWA - Reqs in NL - Volére - TemplateAndExplanation.docx, pagina 1*
 
 ---
@@ -55,7 +55,7 @@ Een praktijkvoorbeeld van vereisten werd gegeven met een app voor inwoners van d
 1. De app ondersteunt alleen Android-apparaten met minimaal versie 10.
 2. 95% van de gebruikers moet, na vier keer gebruik, met 75% van de functionaliteiten kunnen werken.
 
-![Kortrijk App Functionaliteiten](Software%20Analyse/images/KortrijkAppFeatures.png)  
+![Kortrijk App Functionaliteiten](KortrijkAppFeatures.png)  
 *Bron: WK08 - 01 - SWA - Reqs in NL - 01 Opdracht reqs stad Kortrijk.pdf, pagina 1*
 
 ---
@@ -67,8 +67,8 @@ Fit criteria zorgen ervoor dat vereisten meetbaar zijn en voldoen aan de behoeft
 - **Functioneel**: "De app moet gebruikers toestaan documenten te downloaden in minder dan 3 seconden."
 - **Niet-functioneel**: "Het systeem moet 1000 gebruikers tegelijk kunnen ondersteunen zonder prestatieverlies."
 
-![Fit Criteria Voorbeelden](Software%20Analyse/images/FitCriteriaExamples1.png)  
-![Fit Criteria Voorbeelden](Software%20Analyse/images/FitCriteriaExamples2.png)  
+![Fit Criteria Voorbeelden](FitCriteriaExamples1.png)  
+![Fit Criteria Voorbeelden](FitCriteriaExamples2.png)  
 *Bron: WK08 - 01 - SWA - Reqs in NL - 00 IntroductionAndExercises.pdf, slide 54-55*
 
 ---

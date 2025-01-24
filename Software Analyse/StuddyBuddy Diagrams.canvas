@@ -1,0 +1,160 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "Software Analyse/Media/2.3 Stakeholderanalyse_4b822497f110441db14a563358b831e1-240125-1424-406.pdf",
+      "height": 2272,
+      "id": "1cae9d836e418193",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2000,
+      "x": -2640,
+      "y": -2720
+    },
+    {
+      "file": "Software Analyse/Media/5.1.1 State Transition Table_c124fa9aa6d649c5bfaa3dd01ca267d6-240125-1428-410.pdf",
+      "height": 2272,
+      "id": "322ef27a74f77b41",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1920,
+      "x": -480,
+      "y": -2720
+    },
+    {
+      "file": "Software Analyse/Media/Bijlage_SWOT_analyse_elicitation_c2a490af8ce948b7a3b208cb801d9c41-240125-1429-412.pdf",
+      "height": 2272,
+      "id": "92de300170cd1c02",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2023,
+      "x": 1657,
+      "y": -2720
+    },
+    {
+      "file": "Software Analyse/Media/Context_diagram_study_budy.pdf",
+      "height": 1800,
+      "id": "27c1afe33d33108a",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2840,
+      "x": 3880,
+      "y": -2720
+    },
+    {
+      "file": "Software Analyse/Media/State_Transition_Diagram.pdf",
+      "height": 2272,
+      "id": "1f7a9b4c56122bc0",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 1800,
+      "x": 6840,
+      "y": -2720
+    },
+    {
+      "file": "Software Analyse/Media/StudyBuddy_DomainModel.drawio.pdf",
+      "height": 2272,
+      "id": "1c10a7f7b4e521f4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2240,
+      "x": 8800,
+      "y": -2720
+    },
+    {
+      "file": "Software Analyse/Media/approve.drawio.pdf",
+      "height": 940,
+      "id": "da94ba4a8d7f1929",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2780,
+      "x": -2640,
+      "y": -270
+    },
+    {
+      "file": "Software Analyse/Media/session.drawio.pdf",
+      "height": 940,
+      "id": "7da45743b4d260d9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 3160,
+      "x": 7880,
+      "y": -270
+    },
+    {
+      "file": "Software Analyse/Media/comms.drawio.pdf",
+      "height": 940,
+      "id": "23c58c1a0bf3f41b",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2760,
+      "x": 920,
+      "y": -270
+    },
+    {
+      "file": "Software Analyse/Media/login.drawio.pdf",
+      "height": 940,
+      "id": "1e6feacd8fcadfa1",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2593,
+      "x": 4720,
+      "y": -270
+    },
+    {
+      "file": "Software Analyse/Media/suc.drawio (1).pdf",
+      "height": 2190,
+      "id": "2eee2bb168856b34",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2400,
+      "x": 8640,
+      "y": 880
+    },
+    {
+      "file": "Software Analyse/Media/search.drawio.pdf",
+      "height": 880,
+      "id": "f9d2ed5132d4f9f3",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2520,
+      "x": 5600,
+      "y": 880
+    },
+    {
+      "file": "Software Analyse/Media/profmgmt.drawio.pdf",
+      "height": 880,
+      "id": "be7ad1cc2d255b8f",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2632,
+      "x": 2669,
+      "y": 880
+    },
+    {
+      "file": "Software Analyse/Media/ed9d9f97-5be8-4558-907a-38fbbd7cd6df_SUC_and_its_friends.pdf",
+      "height": 2190,
+      "id": "f36dc24d701a53d4",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 2480,
+      "x": -2640,
+      "y": 880
+    }
+  ]
+}
