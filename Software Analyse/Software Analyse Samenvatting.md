@@ -53,7 +53,7 @@ Lees meer in [[WK-01 Intro to SWA]].
 ## 2. Stakeholderanalyse en communicatie
 
 Stakeholderanalyse helpt bij het identificeren van belanghebbenden en hun behoeften. Effectieve communicatie is cruciaal om verwachtingen te beheren en conflicten te voorkomen.
-
+[[2.3 Stakeholderanalyse_4b822497f110441db14a563358b831e1-240125-1424-406.pdf]]
 ### 2.1 Tools voor stakeholderanalyse
 
 1. **RACI-matrix**: Definieert verantwoordelijkheden (Responsible, Accountable, Consulted, Informed).
