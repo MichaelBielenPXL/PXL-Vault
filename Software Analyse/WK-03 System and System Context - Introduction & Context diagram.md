@@ -32,7 +32,7 @@ De systeemcontext definieert de interacties tussen een systeem en zijn omgeving.
 
 ## 3. Contextdiagrammen
 Een contextdiagram (ook wel een DFD niveau 0 genoemd) geeft een overzicht van de datastromen tussen het systeem en externe entiteiten. 
-
+[[Context_diagram_study_budy.pdf]]
 ### Belangrijke componenten:
 1. **Externe entiteiten**: Personen, systemen of processen buiten het systeem.
 2. **Datastromen**: De informatie die in en uit het systeem stroomt.
