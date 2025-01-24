@@ -83,6 +83,7 @@ Contextdiagrammen definiëren de grenzen van een systeem en visualiseren de data
 - Datastromen: Bestellingen, betalingen.
 
 ![Contextdiagram Voorbeeld](ContextDiagramExample.png)
+[[Context_diagram_study_budy.pdf]]
 
 Lees meer in [[WK-03 System and System Context - Introduction & Context diagram]].
 
