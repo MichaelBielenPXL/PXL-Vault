@@ -172,6 +172,7 @@ STDs modelleren de toestanden en overgangen van een systeem.
 1. Digitale huisdierapp:
     - Toestanden: Happy, Sad, Heartbroken.
     - Overgangen: Happy → Sad (na straf).
+[[State_Transition_Diagram.pdf]]
 
 ![STD Digital Pet](STDDigitalPet.png)
 
